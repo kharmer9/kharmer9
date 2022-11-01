@@ -1,8 +1,9 @@
 <h1>Hi, I'm Kevin!</h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>Data Science Projects:</h2>
 
-- <b> Hello World! Project </b>
+- <b> Villanova Mathematics Captsone: Snake Analytics </b>
+  - [Praciting DS & Algos in Python](https://github.com/kharmer9/Snake_Analytics-MAT5900)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
