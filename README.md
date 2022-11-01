@@ -3,7 +3,7 @@
 <h2>Data Science Projects:</h2>
 
 - <b> Villanova Mathematics Captsone: Snake Analytics </b>
-  - [Final Paper and Associated Code](https://github.com/kharmer9/Snake_Analytics-MAT5900)
+  - [Final Paper and Associated Code Repository](https://github.com/kharmer9/Snake_Analytics-MAT5900)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
