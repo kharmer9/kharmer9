@@ -8,7 +8,7 @@
   
 - <b> Music Genre Classification </b>
 
-<h3>Syracuse University Projects focused in R or SQL
+<h3>Syracuse University Projects focused in R or SQL</h3>
 
 - <b> Musical Review Database Development using SQL in Azure Data Studio </b>
   
@@ -16,10 +16,10 @@
   
 <h3>Other Previous Data Science Projects:</h3>
 
-- <b> Villanova Mathematics Captsone: Snake Analytics using Python </b>
+- <b> Villanova Mathematics Captsone: Snake Analytics using Python (Spring 2021)</b>
   - [Final Paper and Associated Code Repository](https://github.com/kharmer9/Snake_Analytics-MAT5900)
 
-- <b> Analyzing 3-Dimensional Electric and Magnetic Fields (
+- <b> Analyzing 3-Dimensional Electric and Magnetic Fields (Fall 2019)
   
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
