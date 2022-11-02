@@ -19,7 +19,7 @@
 - <b> Gaining Insight into Hotel Cancellations using R </b>
   - [Group Project Paper and Code](https://github.com/kharmer9/Hotel_Cancellation_Predictions/blob/main/README.md)
   
-<h3>Other Previous Data Science Projects:</h3>
+<h3>Other Previous Related Projects:</h3>
 
 - <b> Villanova Mathematics Captsone: Snake Analytics using Python (Spring 2021)</b>
   - [Final Paper and Associated Code](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/README.md)
