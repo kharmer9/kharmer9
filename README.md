@@ -22,4 +22,4 @@
 - <b> Analyzing 3-Dimensional Electric and Magnetic Fields (Fall 2019)
   
 
-[LinkedIn](www.linkedin.com/in/kevin-harmer)
+[LinkedIn](https://linkedin.com/in/kevin-harmer)
