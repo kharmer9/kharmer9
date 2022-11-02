@@ -17,7 +17,7 @@
 <h3>Other Previous Data Science Projects:</h3>
 
 - <b> Villanova Mathematics Captsone: Snake Analytics using Python (Spring 2021)</b>
-  - [Final Paper and Associated Code Repository](https://github.com/kharmer9/Snake_Analytics-MAT5900)
+  - [Final Paper and Associated Code](https://github.com/kharmer9/Snake_Analytics-MAT5900)
 
 - <b> Analyzing 3-Dimensional Electric and Magnetic Fields (Fall 2019)
   
