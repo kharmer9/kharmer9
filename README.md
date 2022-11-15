@@ -22,10 +22,6 @@
 <h3>Other Previous Related Projects:</h3>
 
 - <b> Villanova Mathematics Capstone: Snake Analytics using Python (Spring 2021)</b>
-  - [Final Paper and Associated Code](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/README.md)
-
-- <b> Analyzing 3-Dimensional Electric and Magnetic Fields (Fall 2019) </b>
-  - [Code Analytics, Report, and Presentation](https://github.com/kharmer9/3D_EM_Fields/blob/main/README.md)
-  
+  - [Final Paper and Associated Code](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/README.md)  
 
 [LinkedIn](https://linkedin.com/in/kevin-harmer)
