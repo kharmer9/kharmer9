@@ -1,5 +1,7 @@
 <h1>Hi, I'm Kevin!</h1>
 
+If you are looking for my IST 782 requirement, please start click [here](https://github.com/kharmer9/IST782_ADS_Requirement) to begin evaluating
+
 <h3>Data Science Projects in Python at Syracuse University</h3>
 
 - <b> Predicting College Basketball Postseason </b>
