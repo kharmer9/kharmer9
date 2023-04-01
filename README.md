@@ -38,6 +38,7 @@ If you are looking for my IST 782 requirement, please start click [here](https:/
   - Topics: Algorithm Development and Testing, Applied Theoretical Probability, Graph Theory
 
 <h3>Coming Soon:</h3>
+
 - <b>Predicting Credit Card Default in Big Data using Pyspark</b>
 - <b>Analyzing Climate Change Opinions through Twitter Text Mining</b>
 - <b>Visualizing College Basketball Success Indicators</b>
